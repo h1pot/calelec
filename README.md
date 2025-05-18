@@ -46,3 +46,5 @@ We welcome contributions! Please read our CONTRIBUTING.md file for guidelines on
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/h1pot)
